@@ -9,14 +9,14 @@ I guess the best place to contact me is either my email or `@lerrigatto:matrix.o
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
-[1.1]: /assets/twitch.png?raw=true (Enrico on twitch)
-[2.1]: /assets/youtube.png?raw=true (Enrico on youtube)
-[3.1]: /assets/website.png?raw=true (Enrico's website)
-[3.1]: /assets/linkedin.png?raw=true (Enrico on linkedin)
-[4.1]: /assets/instagram.png?raw=true (Enrico on instagram)
-[5.1]: /assets/twitter.png?raw=true (Enrico on twitter)
-[6.1]: /assets/github.png?raw=true (Enrico on github, here!)
-
+[1.1]: /assets/twitch.png?raw=true (Enrico on twitch) | width=24
+[2.1]: /assets/youtube.png?raw=true (Enrico on youtube) | width=24
+[3.1]: /assets/website.png?raw=true (Enrico's website) | width=24
+[3.1]: /assets/linkedin.png?raw=true (Enrico on linkedin) | width=24
+[4.1]: /assets/instagram.png?raw=true (Enrico on instagram) | width=24
+[5.1]: /assets/twitter.png?raw=true (Enrico on twitter) | width=24
+[6.1]: /assets/github.png?raw=true (Enrico on github, here!) | width=24
+<!-- Thanks to https://www.iconfinder.com/hsynckr for the icons --!>
 
 [1]: https://www.twitch.tv/lerrigatto
 [2]: https://www.youtube.com/user/lerrigatto
