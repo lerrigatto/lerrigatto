@@ -9,13 +9,13 @@ I guess the best place to contact me is either my email or `@lerrigatto:matrix.o
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
-[1.1]: http://www.entypo.com/images/mic.svg (Enrico on twitch)
-[2.1]: http://www.entypo.com/images/youtube.svg (Enrico on youtube)
-[3.1]: http://www.entypo.com/images/network.svg (Enrico's website)
-[3.1]: http://www.entypo.com/images/linkedin.svg (Enrico on linkedin)
-[4.1]: http://www.entypo.com/images/instagram.svg (Enrico on instagram)
-[5.1]: http://www.entypo.com/images/twitter.svg (Enrico on twitter)
-[6.1]: http://www.entypo.com/images/github.svg (Enrico on github, here!)
+[1.1]: /assets/twitch.png?raw=true (Enrico on twitch)
+[2.1]: /assets/youtube.png?raw=true (Enrico on youtube)
+[3.1]: /assets/website.png?raw=true (Enrico's website)
+[3.1]: /assets/linkedin.png?raw=true (Enrico on linkedin)
+[4.1]: /assets/instagram.png?raw=true (Enrico on instagram)
+[5.1]: /assets/twitter.png?raw=true (Enrico on twitter)
+[6.1]: /assets/github.png?raw=true (Enrico on github, here!)
 
 
 [1]: https://www.twitch.tv/lerrigatto
@@ -25,6 +25,3 @@ I guess the best place to contact me is either my email or `@lerrigatto:matrix.o
 [4]: https://www.instagram.com/lerrigatto/
 [5]: http://www.twitter.com/lerrigatto
 [6]: http://www.github.com/lerrigatto
-
-<!-- Thanks to: https://github.com/carlsednaoui/gitsocial -->
-<!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
