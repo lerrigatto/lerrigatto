@@ -2,26 +2,16 @@
 
 I like to build stuff. You can find me almost anywhere either as `elacava` or `lerrigatto`.
 I guess the best place to contact me is either my email or `@lerrigatto:matrix.org`.
+I really hate web development.
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-
-[1.1]: /assets/twitch.png?raw=true (Enrico on twitch) 
-[2.1]: /assets/youtube.png?raw=true (Enrico on youtube) 
-[3.1]: /assets/website.png?raw=true (Enrico's website) 
-[3.1]: /assets/linkedin.png?raw=true (Enrico on linkedin) 
-[4.1]: /assets/instagram.png?raw=true (Enrico on instagram) 
-[5.1]: /assets/twitter.png?raw=true (Enrico on twitter) 
-[6.1]: /assets/github.png?raw=true (Enrico on github, here!) 
+<p align="center">
+  <a href="https://www.twitch.tv/lerrigatto"><img title="twitch" alt="twitch" src="https://raw.githubusercontent.com/lerrigatto/lerrigatto/assets/twitch.png" width="24" /></a>
+  <a href="https://www.youtube.com/user/lerrigatto"><img title="youtube" alt="youtube" src="https://raw.githubusercontent.com/lerrigatto/lerrigatt/assets/youtube.png width="24" /></a>
+  <a href="https://www.lerrigatto.com"><img title="website" alt="website" src="https://raw.githubusercontent.com/lerrigatto/lerrigatt/assets/website.png?raw=true width="24" /></a>
+  <a href="https://www.linkedin.com/in/lerrigatto"><img title="linkedin" alt="linkedin" src="https://raw.githubusercontent.com/lerrigatto/lerrigatt/assets/linkedin.png?raw=true width="24" /></a>
+  <a href="https://www.instagram.com/lerrigatto"><img title="instagram" alt="instagram"  src="https://raw.githubusercontent.com/lerrigatto/lerrigatt/assets/instagram.png?raw=true width="24" /></a>
+  <a href="http://www.twitter.com/lerrigatto"><img title="twitter" alt="twitter" src="https://raw.githubusercontent.com/lerrigatto/lerrigatt/assets/twitter.png?raw=true width="24" /></a>
+  <a href="http://www.github.com/lerrigatto"><img title="github" alt="github" src="https://raw.githubusercontent.com/lerrigatto/lerrigatt/assets/github.png?raw=true width="24" /></a>
+  </p>
 <!-- Thanks to https://www.iconfinder.com/hsynckr for the icons --!>
 
-[1]: https://www.twitch.tv/lerrigatto
-[2]: https://www.youtube.com/user/lerrigatto
-[3]: https://www.lerrigatto.com
-[3]: https://www.linkedin.com/in/lerrigatto
-[4]: https://www.instagram.com/lerrigatto/
-[5]: http://www.twitter.com/lerrigatto
-[6]: http://www.github.com/lerrigatto
