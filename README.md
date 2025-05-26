@@ -1,7 +1,7 @@
 ### Ciao :bear:
 
 I like to build stuff. You can find me almost anywhere either as `elacava` or `lerrigatto`.
-I guess the best place to contact me is either my email or `@lerrigatto:matrix.org`.
+I guess the best place to contact me is either my email or in kubernetes slack
 I really hate web development.
 
 <p align="center">
